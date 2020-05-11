@@ -47,7 +47,7 @@ Extends the ClaudiusNascimento GentelellaDashboard layout in your view
 For the version 1.0.0 
  - You must to work with the views purely.
  - The config file is empty
- - There is anyone component
+ - There is no component
 
 ## See the Gentelella Docs:
 
@@ -55,12 +55,6 @@ For the version 1.0.0
 <br>
 [Gentelella Template Demo](https://colorlib.com/polygon/gentelella/index.html)
 
-
-### Testing
-
-``` bash
-composer test
-```
 
 ### Changelog
 
